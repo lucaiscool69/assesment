@@ -1,0 +1,45 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+
+
+
+
+
+    public static void main(String[] args) {
+
+       int number = 11;
+       char sentence = 'j';
+       boolean english = true;
+       double spanglish = 20.3333333333333333;
+       float lucaduka = 3.3f;
+       String luca = "u  are stincky";
+       System.out.println(number);
+       System.out.println(sentence);
+       System.out.println(english);
+       System.out.println(spanglish);
+       System.out.println(lucaduka);
+       System.out.println(luca);
+
+        int numberIsFun = 11;
+        char sentenceAreCool = 'j';
+        boolean englishIsCool = true;
+        double spanglishIsCool = 20.3333333333333333;
+        float lucadukaIsCool = 3.3f;
+        String lucaIsCool = "u  are stincky";
+        System.out.println(numberIsFun);
+        System.out.println(sentenceAreCool);
+        System.out.println(englishIsCool);
+        System.out.println(spanglishIsCool);
+        System.out.println(lucadukaIsCool);
+        System.out.println(lucaIsCool);
+
+        //dont know the rest :(
+        // so like the array loop and how to make a meathod
+
+    }
+
+
+
+
+}
